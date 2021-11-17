@@ -1,0 +1,67 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake",
+      "sdkFolder": "/Users/entrance/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates",
+      "gradleModulePathName": ":Demo",
+      "moduleRootFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app",
+      "makeFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/.cxx",
+      "cxxFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx",
+      "ndkFolder": "/Users/entrance/Library/Android/sdk/ndk/22.1.7171670",
+      "ndkVersion": "22.1.7171670",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 29,
+  "cxxBuildFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}

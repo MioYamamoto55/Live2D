@@ -1,0 +1,65 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Id/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Math/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Type/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Model/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Utils/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Effect/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Motion/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Physics/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Rendering/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Framework/src/Rendering/OpenGL/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "Demo-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86",
+        "Demo"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "Demo",
+      "output": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj/x86/libDemo.so",
+      "runtimeFiles": []
+    },
+    "Framework-Debug-x86": {
+      "buildCommandComponents": [
+        "/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86",
+        "Framework"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "Framework",
+      "output": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86/Framework/libFramework.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

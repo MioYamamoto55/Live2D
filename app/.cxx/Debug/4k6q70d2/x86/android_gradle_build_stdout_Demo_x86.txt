@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86'
+ninja: no work to do.

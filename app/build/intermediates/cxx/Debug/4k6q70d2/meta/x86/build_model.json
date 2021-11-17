@@ -1,0 +1,164 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86",
+  "soFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj/x86",
+  "soRepublishFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/obj/x86",
+  "abiPlatformVersion": 29,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj",
+    "soRepublishFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cmake/debug/obj",
+    "cxxBuildFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2",
+    "intermediatesFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "X86"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx",
+      "intermediatesBaseFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates",
+      "intermediatesFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx",
+      "gradleModulePathName": ":Demo",
+      "moduleRootFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app",
+      "moduleBuildFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build.gradle",
+      "makeFile": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/Users/entrance/Library/Android/sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake",
+        "sdkFolder": "/Users/entrance/Library/Android/sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "ideBuildTargetAbi": "x86",
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "nativeBuildOutputLevel": "QUIET"
+    },
+    "prefabClassPathFileCollection": [],
+    "prefabPackageDirectoryListFileCollection": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "4k6q70d20562692q352d6v5d721d2n3r55553p6ss4t3j3q3s5l1n12485r1v",
+  "configurationArguments": [
+    "-H/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d29",
+    "-DANDROID_PLATFORM\u003dandroid-29",
+    "-DANDROID_ABI\u003dx86",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DANDROID_NDK\u003d/Users/entrance/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/entrance/Library/Android/sdk/ndk/21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj/x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj/x86",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86",
+    "-GNinja"
+  ]
+}

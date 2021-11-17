@@ -1,0 +1,23 @@
+                    Executable : /Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=29
+-DANDROID_PLATFORM=android-29
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/entrance/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_NDK=/Users/entrance/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=/Users/entrance/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/entrance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/build/intermediates/cxx/Debug/4k6q70d2/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/entrance/Dropbox/My Mac (MioのMacBook Air)/Downloads/CubismSdkForNative-4-r.3 2/Samples/OpenGL/Demo/proj.android.cmake/app/.cxx/Debug/4k6q70d2/x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2
